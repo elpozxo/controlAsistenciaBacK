@@ -1,0 +1,5 @@
+##Resgistrar
+# get  http://localhost:3000/personas/nombre/jua
+# get  http://localhost:3000/personas/apellido/pe
+get  http://localhost:3000/personas/otroOdocumento/123456789
+ 

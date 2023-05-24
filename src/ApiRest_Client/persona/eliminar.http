@@ -1,0 +1,3 @@
+##Resgistrar
+DELETE  http://localhost:3000/personas/123456789 
+ 

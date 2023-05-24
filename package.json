@@ -1,0 +1,19 @@
+{
+  "name": "acceso",
+  "version": "1.0.0",
+  "description": "Para el acceso de persona con el numero de cedula",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "nodemon": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "WillPozo",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql2": "^3.3.2",
+    "sequelize": "^6.31.1"
+  }
+}

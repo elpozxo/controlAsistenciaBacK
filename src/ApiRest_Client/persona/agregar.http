@@ -1,0 +1,16 @@
+##Resgistrar
+POST http://localhost:3000/personas HTTP/1.1
+Content-Type: application/json
+
+{
+  "documento": "1234567",
+  "tipoDocumento": "Cedula",
+  "primerNombre": "Juan",
+  "primerApellido": "Pérez",
+  "telefono": "123456789",
+  "sexo": "Masculino",
+  "correo": "juan@example.com",
+  "foto": "https://example.com/foto.jpg"
+}
+
+

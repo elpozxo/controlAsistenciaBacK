@@ -1,0 +1,4 @@
+##listar todas las persona
+GET http://localhost:3000/personas
+
+
